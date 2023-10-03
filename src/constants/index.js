@@ -220,7 +220,7 @@ import {
         },
       ],
       image: research,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/stoty61/eyeTrackingSoftware",
     },
     {
       name: "Leicester City Transfer Window Suggestions",
