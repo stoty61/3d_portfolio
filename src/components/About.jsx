@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with a strong background in JavaScript, Java, and Python. I specialize in JavaScript frameworks like React, Node.js, Three.js, and Vue.js. Additionally, I have expertise in Python frameworks such as Pandas, TensorFlow, and PyTorch, which empower me to train deep learning, machine learning, and artificial intelligence models. I'm known for my ability to quickly grasp new concepts and I'm enthusiastic about tackling complex challenges.
+        I'm a skilled software developer with a strong background in JavaScript, Java, and Python. I specialize in JavaScript frameworks like React, Node.js, Three.js, and Vue.js. Additionally, I have expertise in Python frameworks such as Pandas, TensorFlow, and PyTorch, which empower me to train deep learning, machine learning, and artificial intelligence models. I take pride in my ability to quickly grasp new concepts and I'm enthusiastic about tackling complex challenges.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

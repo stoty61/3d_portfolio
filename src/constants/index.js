@@ -60,7 +60,7 @@ import {
       icon: backend,
     },
     {
-      title: "Backend Developer",
+      title: "Back End Developer",
       icon: creator,
     },
   ];
@@ -139,7 +139,7 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2021 - December 2022",
       points: [
-        "Support investments in student lead startups in the technology sector throughout Canada.",
+        "Support investments in a pre seed venture capital firm focued on student lead startups throughout Canada.",
         "Engineered dashboards for clients using SQL, PowerBI and AirTable, enabling the transformation of large data into visually appealing and understandable formats and allowing for conclusions to be drawn from key metrics.",
         "Utilized AirTable to develop and deploy automations that optimized internal workflow efficiency.",
         "Managed website operations, overseeing regular updates to enhance both user interface and user experience.",
@@ -167,7 +167,7 @@ import {
       points: [
         "Developed full-stack web applications utilizing SQL, C#, HTML/CSS, JavaScript, jQuery, and Vue.js to automate processes and enhance data visualization.",
         "Created a hardware tracker to automate the tracking of over $2 million dollars worth of computers.",
-        "Constructed an automation assuring outstanding approval is received when booking large ($1MM+) transactions and requesting hierarchy/administrative changes.",
+        "Constructed an automation to confirm approval of large ($1MM+) transactions and hierarchy/administrative changes.",
         "Working with internal clients and stakeholders to identify inefficient practices and provide technical solutions to optimize resources."
       ],
     },
@@ -288,7 +288,7 @@ import {
     {
       name: "Stochastic Financial Modelling",
       description:
-        "This project was an amazing oppurtunity to apply my mathematical abilities to economics. By treating direct costs as variable costs following a PERT distribution, I was able to calculate the expected net present worth of a company in 15 years' time.",
+        "This project was an amazing opportunity to apply my mathematical abilities to economics. By treating direct costs as variable costs following a PERT distribution, I was able to calculate the expected net present worth of a company in 15 years' time.",
       tags: [
         {
           name: "excel",

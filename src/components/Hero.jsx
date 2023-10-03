@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             University of Toronto Engineer | <br className='sm:block hidden' />
-            Minor in AI and Buisness
+            Minor in A.I. and Business
           </p>
         </div>
       </div>
